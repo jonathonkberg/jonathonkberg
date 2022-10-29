@@ -12,13 +12,9 @@ I am Jonathon, and I am an electrical engineering graduate student who has exper
 * Various hardware related skills, CAD (Creo), and electronics software (Multisim, hspice, Orcad)
 * ECAD for PCB (KiCad), VLSI (Mentor Graphics)
 
-## Some current interests
-
-
-<!--- 
 ## Contact
 I do not currently have a lot of time on my hands with my current private projects and endeavors, but if you are interested in collaborating feel free to contact me at jonathonkberg@gmail.com.
---->
+
 
 <!---
 - 👋 Hi, I’m @jonathonkberg
