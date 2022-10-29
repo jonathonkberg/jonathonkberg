@@ -1,21 +1,19 @@
 # Welcome to my page
 
 ## Intro
-I am Jonathon, and I am an electrical engineering student who is trying to get his hands on practical projects that involve embedded computers and their applications. I am interested in control systems and the intersection between electrical engineering and computer science, and I hope to learn more about wireless communication, sensor fusion, machine learning, and solving inverse problems.
+I am Jonathon, and I am an electrical engineering graduate student who has experience working on systems with embedded computers. My focuses include those with electronic hardware and firmware, control systems, system design, among others. I am ends focused rather than means focused because engineering without ends can only be vanity. I try to encapsulate beauty in all of my projects since I am more philosophical than your average engineer. I enjoy seeing various components operating in beautiful order, and I do not limit myself to one area of electrical engineering in order that I could experience the flavor of each of these areas.
 
 ## Skills
-* Some experience C/C++, Matlab, python, LabView
-* Have worked with: PIC, esp8266/32, arduino, Risc-V dev board
-* Some experience in machine learning, data/sensor fusion, machine vision
-* Various hardware related skills, CAD, and electronics software
+* C/C++, Matlab, python, some markdown/markup
+* Have worked with: Linux based systems, PIC, esp8266/32, arduino, Risc-V dev board
+* Developed various PID control systems
+* Electronics
+* Some experience in machine learning, data/sensor fusion
+* Various hardware related skills, CAD (Creo), and electronics software (Multisim, hspice, Orcad)
+* ECAD for PCB (KiCad), VLSI (Mentor Graphics)
 
 ## Some current interests
-Currently, I am trying to develop the following skills:
-* Developing more sophisticated code for chips (avr, pic, etc.)
-* Become comfortable with wireless protocals (TCP/IP, LORA, etc.)
-* Interest in learning about FPGA applications
-* Become more comfortable using complicated variable types
-* Working with clouds (such as Azure)
+
 
 <!--- 
 ## Contact
